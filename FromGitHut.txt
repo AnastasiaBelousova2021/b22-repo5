@@ -1,0 +1,5 @@
+This is the file I added from GitHut.com to my remote repo directory by clicking add file -->> create file.
+
+
+This line was added to show how to edit files on GitHub.com.
+The edit botton is right next to the delete botton
